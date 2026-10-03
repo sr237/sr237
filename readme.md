@@ -1,6 +1,6 @@
 # Hi, I'm Shubhankar 👋
 
-B.Tech student at NIT Warangal | Software Development | Backend | AI/ML
+Pre-final year B.Tech student at NIT Warangal | Software Development | Backend | AI/ML
 
 I enjoy building software projects, working with backend systems, and solving DSA problems.
 
